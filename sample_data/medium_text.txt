@@ -1,0 +1,21 @@
+Ea voluptate nisi labore deserunt irure cillum tempor sint eiusmod dolor esse nisi consectetur tempor. 
+Qui Lorem id tempor enim reprehenderit irure exercitation do. Amet duis sint culpa aliqua dolore. 
+Laboris ad elit nostrud dolor minim est ullamco voluptate ut. Incididunt aliqua quis excepteur sunt ullamco pariatur officia tempor velit exercitation. 
+Aute dolore fugiat quis laborum anim irure minim. Eiusmod pariatur voluptate velit ullamco aliqua et esse id deserunt incididunt mollit eiusmod est quis. 
+Sint consequat id in veniam mollit non sunt officia voluptate labore labore. Pariatur nulla anim est ut sit duis ipsum tempor aliqua proident laboris et. 
+Consequat sunt ipsum in dolore mollit ex incididunt pariatur velit ad cupidatat mollit nostrud aute.Enim dolor eiusmod nisi officia est est ut nisi irure consequat est ea cupidatat ea. 
+Esse laborum laboris officia consectetur. Cupidatat veniam mollit dolor et consequat magna ex sit eiusmod consequat elit. In sint consectetur duis duis tempor voluptate deserunt Lorem et in minim aute.
+Ex aliquip id aliqua nulla do officia eiusmod est nulla est laborum sunt. Cillum ipsum nulla eiusmod qui proident Lorem nisi ullamco ad fugiat occaecat. 
+Esse magna aliqua et irure est voluptate laborum commodo ullamco.
+
+
+
+THey have used Q*learnig - getting the parameters - 
+
+We are doing a transformer and classifying the config parameters - we are checking how well has it classified
+
+
+
+inputsize, length of words , time, sorting, kmeans -->> parameters
+12gb, 234, 12s, 1, 0, 0
+10mb, 24, 12s, 0, 1, 0

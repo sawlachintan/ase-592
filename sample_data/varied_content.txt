@@ -1,0 +1,5 @@
+Hello world! 123
+This file contains a mix of words, numbers, special characters, and line breaks.
+
+How are you today?
+

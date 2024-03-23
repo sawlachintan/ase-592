@@ -1,0 +1,36 @@
+File,Configuration,Execution Time (seconds),Executor Memory,Executor Cores,Num Executors,Driver Memory
+sample_data/varied_content.txt,Default,1.178131103515625,1g,1,2,1g
+sample_data/varied_content.txt,Increased Executor Memory,0.058290958404541016,2g,1,2,1g
+sample_data/varied_content.txt,Increased Executor Cores,0.0950620174407959,1g,2,2,1g
+sample_data/varied_content.txt,Increased Num Executors,0.056092262268066406,1g,1,8,1g
+sample_data/varied_content.txt,Increased Driver Memory,0.04219698905944824,4g,4,4,4g
+sample_data/repeated_words.txt,Default,0.041871070861816406,1g,1,2,1g
+sample_data/repeated_words.txt,Increased Executor Memory,0.046639204025268555,2g,1,2,1g
+sample_data/repeated_words.txt,Increased Executor Cores,0.04914593696594238,1g,2,2,1g
+sample_data/repeated_words.txt,Increased Num Executors,0.04099154472351074,1g,1,8,1g
+sample_data/repeated_words.txt,Increased Driver Memory,0.031130075454711914,4g,4,4,4g
+sample_data/small_text.txt,Default,0.047263145446777344,1g,1,2,1g
+sample_data/small_text.txt,Increased Executor Memory,0.03446793556213379,2g,1,2,1g
+sample_data/small_text.txt,Increased Executor Cores,0.05097317695617676,1g,2,2,1g
+sample_data/small_text.txt,Increased Num Executors,0.04072284698486328,1g,1,8,1g
+sample_data/small_text.txt,Increased Driver Memory,0.04282379150390625,4g,4,4,4g
+sample_data/large_text.txt,Default,0.03754305839538574,1g,1,2,1g
+sample_data/large_text.txt,Increased Executor Memory,0.035650014877319336,2g,1,2,1g
+sample_data/large_text.txt,Increased Executor Cores,0.0300748348236084,1g,2,2,1g
+sample_data/large_text.txt,Increased Num Executors,0.02680206298828125,1g,1,8,1g
+sample_data/large_text.txt,Increased Driver Memory,0.03929710388183594,4g,4,4,4g
+sample_data/medium_text.txt,Default,0.031147003173828125,1g,1,2,1g
+sample_data/medium_text.txt,Increased Executor Memory,0.04205799102783203,2g,1,2,1g
+sample_data/medium_text.txt,Increased Executor Cores,0.024898052215576172,1g,2,2,1g
+sample_data/medium_text.txt,Increased Num Executors,0.0400080680847168,1g,1,8,1g
+sample_data/medium_text.txt,Increased Driver Memory,0.0371701717376709,4g,4,4,4g
+sample_data/empty_file.txt,Default,0.023544788360595703,1g,1,2,1g
+sample_data/empty_file.txt,Increased Executor Memory,0.036746978759765625,2g,1,2,1g
+sample_data/empty_file.txt,Increased Executor Cores,0.03691601753234863,1g,2,2,1g
+sample_data/empty_file.txt,Increased Num Executors,0.03881192207336426,1g,1,8,1g
+sample_data/empty_file.txt,Increased Driver Memory,0.022342681884765625,4g,4,4,4g
+sample_data/big_data.txt,Default,0.024859189987182617,1g,1,2,1g
+sample_data/big_data.txt,Increased Executor Memory,0.0359959602355957,2g,1,2,1g
+sample_data/big_data.txt,Increased Executor Cores,0.041558027267456055,1g,2,2,1g
+sample_data/big_data.txt,Increased Num Executors,0.040879249572753906,1g,1,8,1g
+sample_data/big_data.txt,Increased Driver Memory,0.03238725662231445,4g,4,4,4g
